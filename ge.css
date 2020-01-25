@@ -1,0 +1,42 @@
+html{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 1em;
+    background-color: #ff9900;
+    box-shadow: 2px 2px black;
+}
+
+h1{
+    text-shadow: 1px 1px #ffffff;
+}
+
+.username{
+    display: block;
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 0%;
+    right:  0%;
+}
+
+table{
+    display: block;
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: 0%;
+    right:  0%;
+    width:100%;
+}
+
+table td {
+    height: 2em;
+    width: 75em;
+}
+
+avatar{
+    margin-right: 100em;
+}
